@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48679403531",
+    "project_id": "wtduck-a3e87",
+    "storage_bucket": "wtduck-a3e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48679403531:android:471fa4106a784f4f5ec70e",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48679403531-i6mfj4vaa2cmi46pvs4v8v4ib67mbpc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3H3Bs1s8xvYEfD7eHFsDpqLfJZX2TnPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48679403531-i6mfj4vaa2cmi46pvs4v8v4ib67mbpc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
